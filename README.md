@@ -27,8 +27,4 @@ Here are some ideas to get you started:
 </div>
 
 
-//.color1 {color: #002d16;}
-//.color2 {color: #006160;}
-//.color3 {color: #ff655e;}
-//.color4 {color: #ffcb6a;}
-//.color5 {color: #ffffb9;}
+<!--.color1 {color: #002d16;}//.color2 {color: #006160;}//.color3 {color: #ff655e;}//.color4 {color: #ffcb6a;}//.color5 {color: #ffffb9;}-->
