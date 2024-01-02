@@ -28,3 +28,4 @@ Here are some ideas to get you started:
 
 
 <!--.color1 {color: #002d16;}//.color2 {color: #006160;}//.color3 {color: #ff655e;}//.color4 {color: #ffcb6a;}//.color5 {color: #ffffb9;}-->
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23320D0F&title_bg=%23FF655E&icon=aiqfome.svg&icon_color=%23002D16&title=visit&edge_flat=true)](https://hits.seeyoufarm.com)
