@@ -25,3 +25,10 @@ Here are some ideas to get you started:
         Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
     </a>
 </div>
+
+
+//.color1 {color: #002d16;}
+//.color2 {color: #006160;}
+//.color3 {color: #ff655e;}
+//.color4 {color: #ffcb6a;}
+//.color5 {color: #ffffb9;}
